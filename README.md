@@ -14,6 +14,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LANSuite](https://lansuite.github.io/lansuite/)
 - [LANager](https://github.com/zeropingheroes/lanager)
 - [BYCEPS](https://byceps.nwsnet.de/)
+- [LANyard](https://github.com/zeropingheroes/lanyard) LAN party ticket selling and management system
 
 ## Gameserver Management
 
@@ -23,6 +24,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [eBot](https://github.com/deStrO/eBot-CSGO) CSGO Server Bot for easy match creation
 - [srcdstop](https://github.com/991jo/srcdstop) A CLI tool that shows how many people are on your SRCDS servers.
 - [gsltctrl_minimal](https://github.com/991jo/gsltctrl_minimal) a little script to manage GSLT tokens
+- [srcds-perfmin](https://github.com/OpenSourceLAN/srcds-perfmon) a little utility to track the performance of a SRCDS server
 
 ## Gameserver Configs
 
@@ -34,9 +36,10 @@ If you are not sure where to put something, open an issue instead ;)
 
 ## Network-related software
 
-currently none... enter your own!
+- [Service Discovery Helper](https://github.com/OpenSourceLAN/service-discovery-helper) A programm that forwards (some) broadcast traffic to other networks.
 
 ## Caching
 
 - [lancache](https://github.com/bntjah/lancache)
 - [LanCache.net](https://lancache.net/)
+- [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) a script to fill a lan caching server
