@@ -5,6 +5,7 @@ An awesome list with awesome software for awesome LAN parties and their organizo
 # How to get something on this list:
 
 Please make a pull request via github.
+If you are not sure where to put something, open an issue instead ;)
 
 # Software
 
