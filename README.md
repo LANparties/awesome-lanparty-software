@@ -21,7 +21,8 @@ If you are not sure where to put something, open an issue instead ;)
 - [LinuxGSM](https://linuxgsm.com/) The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [srcds_exporter (python)](https://github.com/991jo/srcds_exporter) A stats exporter for prometheus that supports most of the SRCDS based gameservers.
 - [srcds_exporter (golang)](https://github.com/galexrt/srcds_exporter) A stats exporter for prometheus written in Go and tested with Garry's Mod.
-- [eBot](https://github.com/deStrO/eBot-CSGO) CSGO Server Bot for easy match creation
+- [get5](https://github.com/splewis/get5) CS:GO Sourcemod plugin for competitive matches/scrims
+- [eBot](https://github.com/deStrO/eBot-CSGO) CSGO Server Bot for easy match creation (might be outdated)
 - [srcdstop](https://github.com/991jo/srcdstop) A CLI tool that shows how many people are on your SRCDS servers.
 - [gsltctrl_minimal](https://github.com/991jo/gsltctrl_minimal) a little script to manage GSLT tokens
 - [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) a little utility to track the performance of a SRCDS server
