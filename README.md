@@ -15,6 +15,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LANager](https://github.com/zeropingheroes/lanager)
 - [BYCEPS](https://byceps.nwsnet.de/)
 - [LANyard](https://github.com/zeropingheroes/lanyard) LAN party ticket selling and management system
+- [LanOps Manager](https://github.com/lanops/manager) LAN Ticket & Management System
 
 ## Gameserver Management
 
