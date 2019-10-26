@@ -24,7 +24,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [eBot](https://github.com/deStrO/eBot-CSGO) CSGO Server Bot for easy match creation
 - [srcdstop](https://github.com/991jo/srcdstop) A CLI tool that shows how many people are on your SRCDS servers.
 - [gsltctrl_minimal](https://github.com/991jo/gsltctrl_minimal) a little script to manage GSLT tokens
-- [srcds-perfmin](https://github.com/OpenSourceLAN/srcds-perfmon) a little utility to track the performance of a SRCDS server
+- [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) a little utility to track the performance of a SRCDS server
 
 ## Gameserver Configs
 
