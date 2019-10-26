@@ -27,10 +27,12 @@ If you are not sure where to put something, open an issue instead ;)
 - [srcdstop](https://github.com/991jo/srcdstop) A CLI tool that shows how many people are on your SRCDS servers.
 - [gsltctrl_minimal](https://github.com/991jo/gsltctrl_minimal) a little script to manage GSLT tokens
 - [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) a little utility to track the performance of a SRCDS server
+- [kubernetes-lanparty](https://github.com/OpenSourceLAN/kubernetes-lanparty/)  How to put all of your game servers in to kubernetes
 
 ## Gameserver Configs
 
 - [ESL CSGO Serverconfig](https://play.eslgaming.com/download/26251762/)
+- [Generic Docker game servers](https://github.com/OpenSourceLAN/gameservers-docker)
 
 ## Switch-Configuration Tools
 
@@ -46,3 +48,4 @@ If you are not sure where to put something, open an issue instead ;)
 - [lancache](https://github.com/bntjah/lancache)
 - [LanCache.net](https://lancache.net/)
 - [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) a script to fill a lan caching server
+- [origin-docker](https://github.com/OpenSourceLAN/gameservers-docker) - Single docker image that will serves most major CDNs
