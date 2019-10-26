@@ -37,6 +37,7 @@ If you are not sure where to put something, open an issue instead ;)
 ## Network-related software
 
 - [Service Discovery Helper](https://github.com/OpenSourceLAN/service-discovery-helper) A programm that forwards (some) broadcast traffic to other networks.
+- [bcast-bridge](https://git.kopf-tisch.de/razzor/bcast-bridge) a PHP script that generates iptables rules that forward broadcast traffic to other networks.
 
 ## Caching
 
