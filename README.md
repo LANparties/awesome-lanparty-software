@@ -11,11 +11,14 @@ If you are not sure where to put something, open an issue instead ;)
 
 ## LAN Party Management
 
+- [DOTLAN Intranet](http://intranet.dotlan.net/)
 - [LANSuite](https://lansuite.github.io/lansuite/)
 - [LANager](https://github.com/zeropingheroes/lanager)
 - [BYCEPS](https://byceps.nwsnet.de/)
 - [LANyard](https://github.com/zeropingheroes/lanyard) LAN party ticket selling and management system
 - [LanOps Manager](https://github.com/lanops/manager) LAN Ticket & Management System
+- [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) (historical)
+- [LANshock](https://github.com/bkonetzny/LANshock) (historical)
 
 ## Gameserver Management
 
@@ -27,6 +30,8 @@ If you are not sure where to put something, open an issue instead ;)
 - [srcdstop](https://github.com/991jo/srcdstop) A CLI tool that shows how many people are on your SRCDS servers.
 - [gsltctrl_minimal](https://github.com/991jo/gsltctrl_minimal) a little script to manage GSLT tokens
 - [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) a little utility to track the performance of a SRCDS server
+- [GameAdminHelper](https://github.com/DavidKMartel/GameAdminHelper)
+- [LAN game scanner](https://github.com/991jo/lan-game-scanner)
 
 ## Gameserver Configs
 
