@@ -19,6 +19,12 @@ If you are not sure where to put something, open an issue instead ;)
 - [LanOps Manager](https://github.com/lanops/manager) LAN Ticket & Management System
 - [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) (historical)
 - [LANshock](https://github.com/bkonetzny/LANshock) (historical)
+- [Lansite](https://github.com/tannerkrewson/lansite) – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
+- [LAN](https://github.com/mfairchild365/lan) – "Guest management/communication application for LANs (LAN parties)"
+
+### Server Management
+
+- [ansible-lanparty](https://github.com/ti-mo/ansible-lanparty) – "Collection of integrated Ansible roles used to run LAN events"
 
 ### Gameserver Management
 
@@ -33,6 +39,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [kubernetes-lanparty](https://github.com/OpenSourceLAN/kubernetes-lanparty/)  How to put all of your game servers in to kubernetes
 - [GameAdminHelper](https://github.com/DavidKMartel/GameAdminHelper)
 - [LAN game scanner](https://github.com/991jo/lan-game-scanner)
+- [Pterodactyl Panel](https://github.com/pterodactyl/panel) – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 
 ### Gameserver Configs
 
