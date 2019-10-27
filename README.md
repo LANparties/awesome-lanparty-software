@@ -1,15 +1,15 @@
 # Awesome LAN Party Software
 
-An awesome list with awesome software for awesome LAN parties and their organizors.
+An awesome list with awesome software for awesome LAN parties and their organizers.
 
-# How to get something on this list:
+## How to get something on this list:
 
-Please make a pull request via github.
+Please create a pull request via GitHub.
 If you are not sure where to put something, open an issue instead ;)
 
-# Software
+## Software
 
-## LAN Party Management
+### LAN Party Management
 
 - [DOTLAN Intranet](http://intranet.dotlan.net/)
 - [LANSuite](https://lansuite.github.io/lansuite/)
@@ -20,7 +20,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) (historical)
 - [LANshock](https://github.com/bkonetzny/LANshock) (historical)
 
-## Gameserver Management
+### Gameserver Management
 
 - [LinuxGSM](https://linuxgsm.com/) The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [srcds_exporter (python)](https://github.com/991jo/srcds_exporter) A stats exporter for prometheus that supports most of the SRCDS based gameservers.
@@ -34,21 +34,21 @@ If you are not sure where to put something, open an issue instead ;)
 - [GameAdminHelper](https://github.com/DavidKMartel/GameAdminHelper)
 - [LAN game scanner](https://github.com/991jo/lan-game-scanner)
 
-## Gameserver Configs
+### Gameserver Configs
 
 - [ESL CSGO Serverconfig](https://play.eslgaming.com/download/26251762/)
 - [Generic Docker game servers](https://github.com/OpenSourceLAN/gameservers-docker)
 
-## Switch-Configuration Tools
+### Switch Configuration Tools
 
 - [procurve_conf](https://github.com/991jo/procurve-conf) A little script to put configs on HP procuve switches
 
-## Network-related software
+### Network-related software
 
 - [Service Discovery Helper](https://github.com/OpenSourceLAN/service-discovery-helper) A programm that forwards (some) broadcast traffic to other networks.
 - [bcast-bridge](https://git.kopf-tisch.de/razzor/bcast-bridge) a PHP script that generates iptables rules that forward broadcast traffic to other networks.
 
-## Caching
+### Caching
 
 - [lancache](https://github.com/bntjah/lancache)
 - [LanCache.net](https://lancache.net/)
