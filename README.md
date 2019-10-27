@@ -40,6 +40,8 @@ If you are not sure where to put something, open an issue instead ;)
 - [GameAdminHelper](https://github.com/DavidKMartel/GameAdminHelper)
 - [LAN game scanner](https://github.com/991jo/lan-game-scanner)
 - [Pterodactyl Panel](https://github.com/pterodactyl/panel) – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
+- [gameserver_webinterface](https://github.com/amshove/gameserver_webinterface) – "Webinterface für LAN-Partys zum einfachen starten/stoppen/verwalten von Gameservern."
+- [GameAdminHelper](https://github.com/DavidKMartel/GameAdminHelper) – "Helps manage game servers. Provide a menu for most common game admin tasks. Designed primarily for LAN parties."
 
 ### Gameserver Configs
 
@@ -54,6 +56,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 - [Service Discovery Helper](https://github.com/OpenSourceLAN/service-discovery-helper) A programm that forwards (some) broadcast traffic to other networks.
 - [bcast-bridge](https://git.kopf-tisch.de/razzor/bcast-bridge) a PHP script that generates iptables rules that forward broadcast traffic to other networks.
+- [QStat](https://github.com/multiplay/qstat) – "a command-line program that displays information about Internet game servers"
 
 ### Caching
 
@@ -61,3 +64,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LanCache.net](https://lancache.net/)
 - [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) a script to fill a lan caching server
 - [origin-docker](https://github.com/OpenSourceLAN/origin-docker) - Single docker image that will serves most major CDNs
+
+### Uncategorized
+
+- [reboot-lan](https://github.com/Fohdeesha/reboot-lan) – "lanning + Infra for reBOOT LAN Party"
