@@ -48,4 +48,4 @@ If you are not sure where to put something, open an issue instead ;)
 - [lancache](https://github.com/bntjah/lancache)
 - [LanCache.net](https://lancache.net/)
 - [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) a script to fill a lan caching server
-- [origin-docker](https://github.com/OpenSourceLAN/gameservers-docker) - Single docker image that will serves most major CDNs
+- [origin-docker](https://github.com/OpenSourceLAN/origin-docker) - Single docker image that will serves most major CDNs
