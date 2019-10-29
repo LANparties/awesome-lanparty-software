@@ -11,14 +11,14 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### LAN Party Management
 
-- [DOTLAN Intranet](http://intranet.dotlan.net/)
-- [LANSuite](https://lansuite.github.io/lansuite/)
-- [LANager](https://github.com/zeropingheroes/lanager)
-- [BYCEPS](https://byceps.nwsnet.de/)
+- [DOTLAN Intranet](http://intranet.dotlan.net/) – "das komplette Intranetsystem für die Ausrichtung einer Lanparty"
+- [LANSuite](https://lansuite.github.io/lansuite/) – "A Content Management System designed especially for the needs of LAN-Parties"
+- [LANager](https://github.com/zeropingheroes/lanager) – "LAN party management web application"
+- [BYCEPS](https://byceps.nwsnet.de/) – "a tool to prepare and operate LAN parties (even under different brands), big (1,000+ attendees) and small, both online on the Internet and locally as an intranet system, for both organizers and attendees"
 - [LANyard](https://github.com/zeropingheroes/lanyard) LAN party ticket selling and management system
 - [LanOps Manager](https://github.com/lanops/manager) LAN Ticket & Management System
-- [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) (historical)
-- [LANshock](https://github.com/bkonetzny/LANshock) (historical)
+- [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) – "LanSurfer was a european portal for organizing LAN parties available around the Year 2000. This is the the ancient PHP intranet component that was available for LAN parties." `historical`
+- [LANshock](https://github.com/bkonetzny/LANshock) – `historical`
 - [Lansite](https://github.com/tannerkrewson/lansite) – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
 - [LAN](https://github.com/mfairchild365/lan) – "Guest management/communication application for LANs (LAN parties)"
 
@@ -37,11 +37,10 @@ If you are not sure where to put something, open an issue instead ;)
 - [gsltctrl_minimal](https://github.com/991jo/gsltctrl_minimal) a little script to manage GSLT tokens
 - [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) a little utility to track the performance of a SRCDS server
 - [kubernetes-lanparty](https://github.com/OpenSourceLAN/kubernetes-lanparty/)  How to put all of your game servers in to kubernetes
-- [GameAdminHelper](https://github.com/DavidKMartel/GameAdminHelper)
+- [GameAdminHelper](https://github.com/DavidKMartel/GameAdminHelper) – "Helps manage game servers. Provide a menu for most common game admin tasks. Designed primarily for LAN parties."
 - [LAN game scanner](https://github.com/991jo/lan-game-scanner)
 - [Pterodactyl Panel](https://github.com/pterodactyl/panel) – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 - [gameserver_webinterface](https://github.com/amshove/gameserver_webinterface) – "Webinterface für LAN-Partys zum einfachen starten/stoppen/verwalten von Gameservern."
-- [GameAdminHelper](https://github.com/DavidKMartel/GameAdminHelper) – "Helps manage game servers. Provide a menu for most common game admin tasks. Designed primarily for LAN parties."
 
 ### Gameserver Configs
 
