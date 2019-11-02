@@ -25,6 +25,7 @@ If you are not sure where to put something, open an issue instead ;)
 ### Server Management
 
 - [ansible-lanparty](https://github.com/ti-mo/ansible-lanparty) – "Collection of integrated Ansible roles used to run LAN events"
+- [puppet-lanserver](https://github.com/pseiler/puppet-lanserver) - "Collection of several lanservices running in a puppet context"
 
 ### Gameserver Management
 
