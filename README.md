@@ -50,7 +50,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Switch Configuration Tools
 
-- [procurve_conf](https://github.com/991jo/procurve-conf) A little script to put configs on HP procuve switches
+- [procurve_conf](https://github.com/991jo/procurve-conf) A little script to put configs on HP procurve switches
 
 ### Network-related software
 
