@@ -57,6 +57,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [Service Discovery Helper](https://github.com/OpenSourceLAN/service-discovery-helper) A programm that forwards (some) broadcast traffic to other networks.
 - [bcast-bridge](https://git.kopf-tisch.de/razzor/bcast-bridge) a PHP script that generates iptables rules that forward broadcast traffic to other networks.
 - [QStat](https://github.com/multiplay/qstat) – "a command-line program that displays information about Internet game servers"
+- [GrokStat](https://github.com/vorot93/grokstat) – "Fast game server query tool. Retrieves information about game servers. Inspired by QStat."
 
 ### Caching
 
