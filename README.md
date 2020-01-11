@@ -42,6 +42,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LAN game scanner](https://github.com/991jo/lan-game-scanner)
 - [Pterodactyl Panel](https://github.com/pterodactyl/panel) – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 - [gameserver_webinterface](https://github.com/amshove/gameserver_webinterface) – "Webinterface für LAN-Partys zum einfachen starten/stoppen/verwalten von Gameservern."
+- [Wilfred](https://github.com/wilfred-dev/wilfred) – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
 
 ### Gameserver Configs
 
