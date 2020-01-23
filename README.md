@@ -16,6 +16,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LANager](https://github.com/zeropingheroes/lanager) – "LAN party management web application"
 - [BYCEPS](https://byceps.nwsnet.de/) – "a tool to prepare and operate LAN parties (even under different brands), big (1,000+ attendees) and small, both online on the Internet and locally as an intranet system, for both organizers and attendees"
 - [LANyard](https://github.com/zeropingheroes/lanyard) LAN party ticket selling and management system
+- [LanHUB](https://LanHUB.net) LAN Event management system focused on player engagement and easy registration
 - [LanOps Manager](https://github.com/lanops/manager) LAN Ticket & Management System
 - [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) – "LanSurfer was a european portal for organizing LAN parties available around the Year 2000. This is the the ancient PHP intranet component that was available for LAN parties." `historical`
 - [LANshock](https://github.com/bkonetzny/LANshock) – `historical`
