@@ -71,3 +71,5 @@ If you are not sure where to put something, open an issue instead ;)
 ### Uncategorized
 
 - [reboot-lan](https://github.com/Fohdeesha/reboot-lan) – "lanning + Infra for reBOOT LAN Party"
+- [Eventula Mapper](https://eventula.com) – Event Mapping API
+
