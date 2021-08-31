@@ -68,6 +68,10 @@ If you are not sure where to put something, open an issue instead ;)
 - [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) a script to fill a lan caching server
 - [origin-docker](https://github.com/OpenSourceLAN/origin-docker) - Single docker image that will serves most major CDNs
 
+### Monitoring
+
+- [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.)
+
 ### Uncategorized
 
 - [reboot-lan](https://github.com/Fohdeesha/reboot-lan) – "lanning + Infra for reBOOT LAN Party"
