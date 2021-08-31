@@ -70,7 +70,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Monitoring
 
-- [CheckMK - Localcheck - checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.)
+- [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.)
 
 ### Uncategorized
 
