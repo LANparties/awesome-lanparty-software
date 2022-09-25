@@ -18,6 +18,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LANyard](https://github.com/zeropingheroes/lanyard) LAN party ticket selling and management system
 - [LanHUB](https://LanHUB.net) LAN Event management system focused on player engagement and easy registration
 - [Eventula Event Manager](https://eventula.com/manager) Event Ticket & Management System
+- [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) currently updated fork of Eventula Event Manager with an extended featureset
 - [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) – "LanSurfer was a european portal for organizing LAN parties available around the Year 2000. This is the the ancient PHP intranet component that was available for LAN parties." `historical`
 - [LANshock](https://github.com/bkonetzny/LANshock) – `historical`
 - [Lansite](https://github.com/tannerkrewson/lansite) – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
