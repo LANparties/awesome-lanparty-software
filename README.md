@@ -67,7 +67,8 @@ If you are not sure where to put something, open an issue instead ;)
 - [lancache](https://github.com/bntjah/lancache)
 - [LanCache.net](https://lancache.net/)
 - [lancache-autofill](https://github.com/zeropingheroes/lancache-autofill) a script to fill a lan caching server
-- [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) A self-contained, portable alternative to lancache-autofill with more features
+- [steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) A self-contained, portable alternative to lancache-autofill with more features for steam games
+- [battlenet-lancache-prefill](https://github.com/tpill90/battlenet-lancache-prefill) A self-contained, portable alternative to lancache-autofill with more features for battlenet games
 - [origin-docker](https://github.com/OpenSourceLAN/origin-docker) - Single docker image that will serves most major CDNs
 
 ### Monitoring
@@ -79,4 +80,3 @@ If you are not sure where to put something, open an issue instead ;)
 
 - [reboot-lan](https://github.com/Fohdeesha/reboot-lan) – "lanning + Infra for reBOOT LAN Party"
 - [Eventula Mapper](https://eventula.com) – Event Mapping API
-
