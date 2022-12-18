@@ -55,6 +55,10 @@ If you are not sure where to put something, open an issue instead ;)
 
 - [procurve_conf](https://github.com/991jo/procurve-conf) A little script to put configs on HP procurve switches
 
+### File Sharing
+
+- [D-LAN](https://www.d-lan.net/) A free LAN distributed file sharing software.
+
 ### Network-related software
 
 - [Service Discovery Helper](https://github.com/OpenSourceLAN/service-discovery-helper) A programm that forwards (some) broadcast traffic to other networks.
