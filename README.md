@@ -36,6 +36,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [srcds_exporter (golang)](https://github.com/galexrt/srcds_exporter) A stats exporter for prometheus written in Go and tested with Garry's Mod.
 - [get5](https://github.com/splewis/get5) CS:GO Sourcemod plugin for competitive matches/scrims
 - [eBot](https://github.com/deStrO/eBot-CSGO) CSGO Server Bot for easy match creation (might be outdated)
+- [TMT](https://github.com/JensForstmann/tmt2) A tool to supervise/manage Counter-Strike 2 matches.
 - [srcdstop](https://github.com/991jo/srcdstop) A CLI tool that shows how many people are on your SRCDS servers.
 - [gsltctrl_minimal](https://github.com/991jo/gsltctrl_minimal) a little script to manage GSLT tokens
 - [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) a little utility to track the performance of a SRCDS server
