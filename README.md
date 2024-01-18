@@ -80,7 +80,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 - [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 - [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
-- [Uptime-Kuma](https://github.com/louislam/uptime-kuma) Easy to host monitoring solution with a variety of checks from simple pings over tcp checks to gameserver querries. Native installation and docker deployment solution available.
+- [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
 
 ### Uncategorized
 
