@@ -52,6 +52,8 @@ If you are not sure where to put something, open an issue instead ;)
 ### Gameserver Configs
 
 - [ESL CSGO Serverconfig](https://play.eslgaming.com/download/26251762/)
+- [ESL CSS Serverconfig](https://play.eslgaming.com/download/27023283/)
+- [ESL CS1.6 Serverconfig](https://play.eslgaming.com/download/27027402/)
 - [Generic Docker game servers](https://github.com/OpenSourceLAN/gameservers-docker)
 
 ### Switch Configuration Tools
