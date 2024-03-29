@@ -17,6 +17,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [BYCEPS](https://byceps.nwsnet.de/) – "A tool to prepare and operate LAN parties (even under different brands), big (1,000+ attendees) and small, both online on the Internet and locally as an intranet system, for both organizers and attendees"
 - [LANyard](https://github.com/zeropingheroes/lanyard) – LAN party ticket selling and management system
 - [LanHUB](https://LanHUB.net) – LAN Event management system focused on player engagement and easy registration
+- [KRRU LAN-Party Management System](https://github.com/KRRUg/KLMS) - CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.
 - [Eventula Event Manager](https://eventula.com/manager) – Event Ticket & Management System
 - [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) – currently updated fork of Eventula Event Manager with an extended featureset
 - [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) – "LanSurfer was a european portal for organizing LAN parties available around the Year 2000. This is the the ancient PHP intranet component that was available for LAN parties." `historical`
