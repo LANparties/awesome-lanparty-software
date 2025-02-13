@@ -48,6 +48,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [Cloud Pterodactyl wings (CloudLAN Tools)](https://github.com/cloudlan-tools/cloudlan-tools) - Automatically deploy and manage cloud-based Pterodactyl wings with the use of Terraform or OpenTofu.
 - [gameserver_webinterface](https://github.com/amshove/gameserver_webinterface) – "Webinterface für LAN-Partys zum einfachen Starten/Stoppen/Verwalten von Gameservern."
 - [Wilfred](https://github.com/wilfred-dev/wilfred) – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
+- [standalone-rcon-client](https://github.com/Egosar93/standalone-rcon-client) - "The Standalone RCON Client is a web-based tool for securely sending RCON commands to CS2 servers."
 
 ### Gameserver Configs
 
