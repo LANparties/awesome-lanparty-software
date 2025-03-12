@@ -69,6 +69,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 - [Service Discovery Helper](https://github.com/OpenSourceLAN/service-discovery-helper) – A program that forwards (some) broadcast traffic to other networks.
 - [bcast-bridge](https://git.kopf-tisch.de/razzor/bcast-bridge) – A PHP script that generates iptables rules that forward broadcast traffic to other networks. Used at NorthCon and LANresort.
+- [gamebridge](https://github.com/netwarlan/gamebridge) - Gamebridge allows you to carve up your LAN party network into many VLANs. Usually, this is a no-no for LAN parties due to the broadcasts needed to find local LAN game servers. Gamebridge rebroadcasts those game server finding beacons across many VLANs without passing anything else (ARP, BPDU, other non-game server broadcasts, etc.) using Linux ebtables. Very simple to set up and deploy. Created by [NETWAR](https://www.netwar.org)
 - [QStat](https://github.com/multiplay/qstat) – "A command-line program that displays information about Internet game servers."
 - [GrokStat](https://github.com/vorot93/grokstat) – "Fast game server query tool. Retrieves information about game servers. Inspired by QStat."
 
