@@ -15,7 +15,6 @@ If you are not sure where to put something, open an issue instead ;)
 - [LANSuite](https://lansuite.github.io/lansuite/) – "A Content Management System designed especially for the needs of LAN-Parties"
 - [LANager](https://github.com/zeropingheroes/lanager) – "LAN party management web application"
 - [BYCEPS](https://byceps.nwsnet.de/) – "A tool to prepare and operate LAN parties (even under different brands), big (1,000+ attendees) and small, both online on the Internet and locally as an intranet system, for both organizers and attendees"
-- [LANyard](https://github.com/zeropingheroes/lanyard) – LAN party ticket selling and management system
 - [LanHUB](https://LanHUB.net) – LAN Event management system focused on player engagement and easy registration
 - [KRRU LAN-Party Management System](https://github.com/KRRUg/KLMS) - CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.
 - [Eventula Event Manager](https://eventula.com/manager) – Event Ticket & Management System
