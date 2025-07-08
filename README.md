@@ -51,9 +51,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 ### Gameserver Configs
 
-- [ESL CSGO Serverconfig](https://play.eslgaming.com/download/26251762/)
-- [ESL CSS Serverconfig](https://play.eslgaming.com/download/27023283/)
-- [ESL CS1.6 Serverconfig](https://play.eslgaming.com/download/27027402/)
+- [Archived ESL Configs](https://github.com/lan-dot-party/ESL-Configs)
 - [Generic Docker game servers](https://github.com/OpenSourceLAN/gameservers-docker)
 
 ### Switch Configuration Tools
@@ -71,6 +69,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [gamebridge](https://github.com/netwarlan/gamebridge) - Gamebridge allows you to carve up your LAN party network into many VLANs. Usually, this is a no-no for LAN parties due to the broadcasts needed to find local LAN game servers. Gamebridge rebroadcasts those game server finding beacons across many VLANs without passing anything else (ARP, BPDU, other non-game server broadcasts, etc.) using Linux ebtables. Very simple to set up and deploy. Created by [NETWAR](https://www.netwar.org)
 - [QStat](https://github.com/multiplay/qstat) – "A command-line program that displays information about Internet game servers."
 - [GrokStat](https://github.com/vorot93/grokstat) – "Fast game server query tool. Retrieves information about game servers. Inspired by QStat."
+- [Discord Gameserver Notifier](https://github.com/lan-dot-party/Discord-Gameserver-Notifier) - Software so search local network of Gameserver and send Webhook into Discord Channel on new findings
 
 ### Caching
 
