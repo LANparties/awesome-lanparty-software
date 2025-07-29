@@ -17,7 +17,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [BYCEPS](https://byceps.nwsnet.de/) – "A tool to prepare and operate LAN parties (even under different brands), big (1,000+ attendees) and small, both online on the Internet and locally as an intranet system, for both organizers and attendees"
 - [LanHUB](https://LanHUB.net) – LAN Event management system focused on player engagement and easy registration
 - [KRRU LAN-Party Management System](https://github.com/KRRUg/KLMS) - CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.
-- [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) – currently updated fork of Eventula Event Manager with an extended featureset
+- [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) – Event Ticket & Management System with (automated) Tournament support and lots of features
 - [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) – "LanSurfer was a european portal for organizing LAN parties available around the Year 2000. This is the the ancient PHP intranet component that was available for LAN parties." `historical`
 - [LANshock](https://github.com/bkonetzny/LANshock) – `historical`
 - [Lansite](https://github.com/tannerkrewson/lansite) – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
@@ -36,6 +36,8 @@ If you are not sure where to put something, open an issue instead ;)
 - [get5](https://github.com/splewis/get5) – CS:GO Sourcemod plugin for competitive matches/scrims.
 - [eBot](https://github.com/deStrO/eBot-CSGO) – CSGO Server Bot for easy match creation (might be outdated).
 - [TMT](https://github.com/JensForstmann/tmt2) – A tool to supervise/manage Counter-Strike 2 matches.
+- [PugSharp](https://github.com/Lan2Play/PugSharp) - CS2 CS# plugin for competitive matches/scrims, with api compatibility to get5.
+- [CS2 PugSharp Manager](https://github.com/DuelistRag3/cs2-pugsharp-manager) - Web tool that can be used together with PugSharp to run CS2 Tournaments.
 - [srcdstop](https://github.com/991jo/srcdstop) – A CLI tool that shows how many people are on your SRCDS servers.
 - [gsltctrl_minimal](https://github.com/991jo/gsltctrl_minimal) – A little script to manage GSLT tokens.
 - [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) – A little utility to track the performance of a SRCDS server.
@@ -88,4 +90,3 @@ If you are not sure where to put something, open an issue instead ;)
 ### Uncategorized
 
 - [reboot-lan](https://github.com/Fohdeesha/reboot-lan) – "lanning + Infra for reBOOT LAN Party"
-- [Eventula Mapper](https://eventula.com) – Event Mapping API
