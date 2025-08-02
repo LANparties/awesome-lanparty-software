@@ -43,7 +43,6 @@ If you are not sure where to put something, open an issue instead ;)
 - [gsltctrl_minimal](https://github.com/991jo/gsltctrl_minimal) – A little script to manage GSLT tokens.
 - [srcds-perfmon](https://github.com/OpenSourceLAN/srcds-perfmon) – A little utility to track the performance of a SRCDS server.
 - [kubernetes-lanparty](https://github.com/OpenSourceLAN/kubernetes-lanparty/)  How to put all of your game servers into Kubernetes.
-- [GameAdminHelper](https://github.com/DavidKMartel/GameAdminHelper) – "Helps manage game servers. Provide a menu for most common game admin tasks. Designed primarily for LAN parties."
 - [LAN game scanner](https://github.com/991jo/lan-game-scanner)
 - [Pterodactyl Panel](https://github.com/pterodactyl/panel) – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 - [Cloud Pterodactyl wings (CloudLAN Tools)](https://github.com/cloudlan-tools/cloudlan-tools) - Automatically deploy and manage cloud-based Pterodactyl wings with the use of Terraform or OpenTofu.
