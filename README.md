@@ -89,3 +89,10 @@ If you are not sure where to put something, open an issue instead ;)
 ### Uncategorized
 
 - [reboot-lan](https://github.com/Fohdeesha/reboot-lan) – "lanning + Infra for reBOOT LAN Party"
+
+## LAN-Adjacent Software
+
+Software that is not specifically made for LAN Parties, but is helpful for LAN Parties anyways
+
+### Shops
+- [pretix](https://pretix.eu) – Open Source Ticketshop. Both free self-hosted and paid SaaS is available. Some features (e.g. seating plans) are behind a paywall but basic ticketing is free.
