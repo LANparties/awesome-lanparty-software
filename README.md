@@ -70,6 +70,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [QStat](https://github.com/multiplay/qstat) – "A command-line program that displays information about Internet game servers."
 - [GrokStat](https://github.com/vorot93/grokstat) – "Fast game server query tool. Retrieves information about game servers. Inspired by QStat."
 - [Discord Gameserver Notifier](https://github.com/lan-dot-party/Discord-Gameserver-Notifier) - Software so search local network of Gameserver and send Webhook into Discord Channel on new findings
+- [FlowGauge](https://github.com/lan-dot-party/FlowGauge) - A modular bandwidth testing tool with Multi-WAN support, DSCP flag configuration, and Grafana-compatible API.
 
 ### Caching
 
