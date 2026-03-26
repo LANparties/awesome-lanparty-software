@@ -22,6 +22,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LANshock](https://github.com/bkonetzny/LANshock) – `historical`
 - [Lansite](https://github.com/tannerkrewson/lansite) – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
 - [LAN](https://github.com/mfairchild365/lan) – "Guest management/communication application for LANs (LAN parties)"
+- [WuTalLAN CMS](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/) - The custom website/CMS used for WuTalLAN/WupperLAN, built with PHP4 in 2001. [A partial modernization](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/modernisierung) is available. 
 
 ### Server Management
 
