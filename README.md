@@ -99,5 +99,11 @@ If you are not sure where to put something, open an issue instead ;)
 
 Software that is not specifically made for LAN Parties, but is helpful for LAN Parties anyways
 
+### Digital signage
+
+- [Anthias](https://anthias.screenly.io/) - Lightweight digital signage. Upload images and videos via a webinterface that will be displayed on a HDMI Display. Primarily for Raspberry Pi
+- [Infoscreen4](https://github.com/reaby/infoscreen4) - Create and publish content to multiple screens from one place
+
+
 ### Shops
 - [pretix](https://pretix.eu) – Open Source Ticketshop. Both free self-hosted and paid SaaS is available. Some features (e.g. seating plans) are behind a paywall but basic ticketing is free.
