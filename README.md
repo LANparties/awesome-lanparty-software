@@ -63,6 +63,7 @@ If you are not sure where to put something, open an issue instead ;)
 ### File Sharing
 
 - [D-LAN](https://www.d-lan.net/) – A free LAN distributed file sharing software.
+- [LANBucket](https://www.lanbucket.com) - Fast, no-config, file sharing with a modern UI.
 
 ### Network-related software
 
