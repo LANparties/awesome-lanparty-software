@@ -22,7 +22,10 @@ If you are not sure where to put something, open an issue instead ;)
 - [LANshock](https://github.com/bkonetzny/LANshock) – `historical`
 - [Lansite](https://github.com/tannerkrewson/lansite) – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
 - [LAN](https://github.com/mfairchild365/lan) – "Guest management/communication application for LANs (LAN parties)"
-- [WuTalLAN CMS](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/) - The custom website/CMS used for WuTalLAN/WupperLAN, built with PHP4 in 2001. [A partial modernization](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/modernisierung) is available. 
+- [WuTalLAN CMS](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/) - The custom website/CMS used for WuTalLAN/WupperLAN, built with PHP4 in 2001. [A partial modernization](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/modernisierung) is available.
+- [ploynt LAN Planner](https://ploynt.com/en/lan-planen) – "An interactive Lanparty venue planner: place tables and zones, escape routes,
+  power circuits, network cables, switch ports and an extensive budget to calculate your aparty. All from the same plan. Includes
+  a 3D view of the hall and a 22-point safety check. Free. No Login needed."
 
 ### Server Management
 
