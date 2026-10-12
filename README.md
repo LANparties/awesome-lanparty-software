@@ -94,6 +94,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [CheckMK](https://checkmk.com) – Free Monitoring System that can monitor almost everything and if a check is missing, write you own simple check.
 - [checkmk-RCONserver](https://github.com/Hornochs/checkmk-RCONserver) – A local check for CheckMK to monitor GoldSrc Games (CS 1.6, Ricochet etc) and Source Games (CS:GO etc.).
 - [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - Easy to host monitoring solution with a variety of checks from simple pings over TCP checks to gameserver queries. Native installation and Docker deployment solution are available.
+- [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitor with game server checks (Source/A2S and Minecraft, with player counts) next to ping, TCP, UDP, DNS and HTTP checks. Single binary or Docker container, SQLite by default.
 
 ### Matchmaking / Lobby / Gamefinder
 - [Mutual Games Finder For LAN parties](https://github.com/Ascendor/mutual-games-finder-for-lanparties) - A tool which connect "all" game libaries in order to find mutual games within your LANparty participants. Designed for private LAN partys (low number of participants, full trust among the group)
