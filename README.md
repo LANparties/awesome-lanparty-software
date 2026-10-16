@@ -21,7 +21,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) – "LanSurfer was a european portal for organizing LAN parties available around the Year 2000. This is the the ancient PHP intranet component that was available for LAN parties." `historical`
 - [LANshock](https://github.com/bkonetzny/LANshock) – `historical`
 - [Lansite](https://github.com/tannerkrewson/lansite) – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
-- [Lansite](https://github.com/marius137/lansite) – "A web app for LAN parties designed to be a simple, central information hub for all attendees - Fork that optionally removes admin approval for posts"
+- [Lansite](https://github.com/marius137/lansite) – "Lansite Fork that optionally removes admin approval for posts"
 - [LAN](https://github.com/mfairchild365/lan) – "Guest management/communication application for LANs (LAN parties)"
 - [WuTalLAN CMS](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/) - The custom website/CMS used for WuTalLAN/WupperLAN, built with PHP4 in 2001. [A partial modernization](https://gitlab.kb-dev.net/lanweb/wutallan/-/tree/modernisierung) is available.
 - [ploynt LAN Planner](https://ploynt.com/en/lan-planen) – "An interactive Lanparty venue planner: place tables and zones, escape routes,
