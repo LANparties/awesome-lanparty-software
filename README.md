@@ -67,6 +67,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 - [D-LAN](https://www.d-lan.net/) – A free LAN distributed file sharing software.
 - [LANBucket](https://www.lanbucket.com) - Fast, no-config, file sharing with a modern UI.
+- [SyncCrate](https://synccrate.app) – Free, open-source app that makes every PC at the party match the host's game mods, saves and configs. Copies only the files that differ, PC to PC at LAN speed, finds hosts automatically and needs no internet. Supports 120+ games (Minecraft, The Sims 4, Valheim, WoW and more).
 
 ### Network-related software
 
