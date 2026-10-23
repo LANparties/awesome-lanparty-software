@@ -49,6 +49,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LAN game scanner](https://github.com/991jo/lan-game-scanner)
 - [Pterodactyl Panel](https://github.com/pterodactyl/panel) – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 - [Cloud Pterodactyl wings (CloudLAN Tools)](https://github.com/cloudlan-tools/cloudlan-tools) - Automatically deploy and manage cloud-based Pterodactyl wings with the use of Terraform or OpenTofu.
+- [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
 - [gameserver_webinterface](https://github.com/amshove/gameserver_webinterface) – "Webinterface für LAN-Partys zum einfachen Starten/Stoppen/Verwalten von Gameservern."
 - [Wilfred](https://github.com/wilfred-dev/wilfred) – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
 - [standalone-rcon-client](https://github.com/Egosar93/standalone-rcon-client) - "The Standalone RCON Client is a web-based tool for securely sending RCON commands to CS2 servers."
