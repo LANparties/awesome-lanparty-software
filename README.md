@@ -54,6 +54,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [Wilfred](https://github.com/wilfred-dev/wilfred) – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
 - [standalone-rcon-client](https://github.com/Egosar93/standalone-rcon-client) - "The Standalone RCON Client is a web-based tool for securely sending RCON commands to CS2 servers."
 - [5stack.gg](https://docs.5stack.gg/) - "5stack: A Comprehensive Panel for Matchmaking, Server Management, Match Management, and Tournament Management"
+- [LANPilot](https://github.com/lan-dot-party/LANPilot) - "LANPilot: A web interface for monitoring and remote-controlling game servers at LAN parties without loggin into the machine"
 
 ### Gameserver Configs
 
@@ -80,6 +81,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [GrokStat](https://github.com/vorot93/grokstat) – "Fast game server query tool. Retrieves information about game servers. Inspired by QStat."
 - [Discord Gameserver Notifier](https://github.com/lan-dot-party/Discord-Gameserver-Notifier) - Software so search local network of Gameserver and send Webhook into Discord Channel on new findings
 - [FlowGauge](https://github.com/lan-dot-party/FlowGauge) - A modular bandwidth testing tool with Multi-WAN support, DSCP flag configuration, and Grafana-compatible API.
+- [LANLeecher](https://github.com/lan-dot-party/LANLeecher) - At LAN parties, LANLeecher counts how much every guest downloads and uploads and turns it into rankings – in the browser, on the beamer and via API.
 
 ### Caching
 
