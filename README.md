@@ -50,10 +50,12 @@ If you are not sure where to put something, open an issue instead ;)
 - [LAN game scanner](https://github.com/991jo/lan-game-scanner)
 - [Pterodactyl Panel](https://github.com/pterodactyl/panel) – "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users."
 - [Cloud Pterodactyl wings (CloudLAN Tools)](https://github.com/cloudlan-tools/cloudlan-tools) - Automatically deploy and manage cloud-based Pterodactyl wings with the use of Terraform or OpenTofu.
+- [FeatherPanel](https://github.com/MythicalLTD/FeatherPanel) – Open-source (AGPL-3.0) game server management panel; its FeatherWings daemon runs each game server in a Docker container.
 - [gameserver_webinterface](https://github.com/amshove/gameserver_webinterface) – "Webinterface für LAN-Partys zum einfachen Starten/Stoppen/Verwalten von Gameservern."
 - [Wilfred](https://github.com/wilfred-dev/wilfred) – "Wilfred is a command-line interface for running and managing game servers locally. It uses Docker to run game servers in containers, which means they are completely separated. Wilfred can run any game that can run in Docker."
 - [standalone-rcon-client](https://github.com/Egosar93/standalone-rcon-client) - "The Standalone RCON Client is a web-based tool for securely sending RCON commands to CS2 servers."
 - [5stack.gg](https://docs.5stack.gg/) - "5stack: A Comprehensive Panel for Matchmaking, Server Management, Match Management, and Tournament Management"
+- [LANPilot](https://github.com/lan-dot-party/LANPilot) - "LANPilot: A web interface for monitoring and remote-controlling game servers at LAN parties without loggin into the machine"
 
 ### Gameserver Configs
 
@@ -68,6 +70,7 @@ If you are not sure where to put something, open an issue instead ;)
 
 - [D-LAN](https://www.d-lan.net/) – A free LAN distributed file sharing software.
 - [LANBucket](https://www.lanbucket.com) - Fast, no-config, file sharing with a modern UI.
+- [SyncCrate](https://synccrate.app) – Free, open-source app that makes every PC at the party match the host's game mods, saves and configs. Copies only the files that differ, PC to PC at LAN speed, finds hosts automatically and needs no internet. Supports 120+ games (Minecraft, The Sims 4, Valheim, WoW and more).
 
 ### Network-related software
 
@@ -79,6 +82,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [GrokStat](https://github.com/vorot93/grokstat) – "Fast game server query tool. Retrieves information about game servers. Inspired by QStat."
 - [Discord Gameserver Notifier](https://github.com/lan-dot-party/Discord-Gameserver-Notifier) - Software so search local network of Gameserver and send Webhook into Discord Channel on new findings
 - [FlowGauge](https://github.com/lan-dot-party/FlowGauge) - A modular bandwidth testing tool with Multi-WAN support, DSCP flag configuration, and Grafana-compatible API.
+- [LANLeecher](https://github.com/lan-dot-party/LANLeecher) - At LAN parties, LANLeecher counts how much every guest downloads and uploads and turns it into rankings – in the browser, on the beamer and via API.
 
 ### Caching
 
