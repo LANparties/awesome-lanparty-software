@@ -18,6 +18,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [LanHUB](https://LanHUB.net) – LAN Event management system focused on player engagement and easy registration
 - [KRRU LAN-Party Management System](https://github.com/KRRUg/KLMS) - CMS (Content management system) for LAN-Parties. Everything you need to present and manage your event in a modern design.
 - [Lan2Play's Eventula Event Manager](https://github.com/Lan2Play/eventula-manager) – Event Ticket & Management System with (automated) Tournament support and lots of features
+- [PizzaVote](https://github.com/KultGrazer/PizzaVote) - "Zero-config pizza ordering tool for LAN parties"
 - [LanSurfer Intranet](https://github.com/TcT2k/lansurfer_intranet) – "LanSurfer was a european portal for organizing LAN parties available around the Year 2000. This is the the ancient PHP intranet component that was available for LAN parties." `historical`
 - [LANshock](https://github.com/bkonetzny/LANshock) – `historical`
 - [Lansite](https://github.com/tannerkrewson/lansite) – "A web app for LAN parties designed to be a simple, central information hub for all attendees"
